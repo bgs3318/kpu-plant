@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865251407343",
+    "project_id": "plantproject-cccdc",
+    "storage_bucket": "plantproject-cccdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865251407343:android:cf957e23f9b1838949721a",
+        "android_client_info": {
+          "package_name": "kr.ac.kpu.se2018158037.tensor_test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865251407343-fmbb5ubn2gm5pbqkfp7tn0rhs5u152pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCm4YUY-0ZyZL0b9sOKxETdjkBtZTC3yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865251407343-fmbb5ubn2gm5pbqkfp7tn0rhs5u152pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

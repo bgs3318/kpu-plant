@@ -1,0 +1,2 @@
+rootProject.name='tensor_test1'
+include ':app'
